@@ -1,4 +1,4 @@
-# STM32f407 Bare metal for ili9341
+# STM32F407 Bare metal for ili9341
 
 We can use without `HAL` library or `STM32CubeIDE` to generate code. We just need to include the definition of register and struct.
 
