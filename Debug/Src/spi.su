@@ -1,0 +1,4 @@
+spi.c:18:6:spi_gpio_init	16	static
+spi.c:100:6:spi_config	16	static
+spi.c:142:6:spi_transmit	32	static
+spi.c:170:6:spi_receive	24	static

@@ -1,0 +1,11 @@
+core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+uart.c:12:5:__io_putchar	16	static
+uart.c:20:6:uart_tx_init	16	static
+uart.c:91:6:uart_rx_init	16	static
+uart.c:162:6:uart_write	16	static
+uart.c:170:6:uart_read	16	static
+uart.c:179:6:uart2_rx_interrupt_init	8	static
+uart.c:224:6:dma1_stream6_init	24	static
+uart.c:278:6:USART2_IRQHandler	4	static
+uart.c:283:13:dma_callback	8	static
+uart.c:291:6:DMA1_Stream6_IRQHandler	8	static

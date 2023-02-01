@@ -1,0 +1,7 @@
+core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+tim.c:10:6:tim4_PDx_output_compare	16	static
+tim.c:73:6:tim2_1hz_init	4	static
+tim.c:90:6:tim2_pa5_output_compare	4	static
+tim.c:126:6:tim3_pa6_input_capture	4	static
+tim.c:155:6:tim2_1hz_interrupt_init	8	static
+tim.c:178:6:TIM2_IRQHandler	16	static

@@ -1,0 +1,4 @@
+i2c.c:22:6:I2C1_init	4	static
+i2c.c:81:6:I2C1_byteRead	24	static
+i2c.c:137:6:I2C1_burstRead	32	static
+i2c.c:219:6:I2C1_burstWrite	32	static
