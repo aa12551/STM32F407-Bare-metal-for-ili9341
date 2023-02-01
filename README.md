@@ -2,6 +2,10 @@
 
 We can use without `HAL` library or `STM32CubeIDE` to generate code. We just need to the definition of register and struct.
 
+## Pre-request
+- Need to include the core header.
+- Need to include the definition of register and struct file.
+
 ## Hardware
 - Stm32f407
 - ili9341
