@@ -27,6 +27,7 @@ We can use without `HAL` library or `STM32CubeIDE` to generate code. We just nee
 - I write a driver that it don't need to include `HAL` library. And I refer to [STM32-ILI9341](https://github.com/martnak/STM32-ILI9341) , I modify some `HAL` function to my bare metal function that we don't need to set some settings. And we need to connect some wire between `STM32f407` and `ili9341`
 
 - Wire between STM32F407 and ili9341
+
 |  STM32f407   | ili9341  |
 |  ----  | ----  |
 | GND  | GND |
