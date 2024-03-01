@@ -38,3 +38,6 @@ We can use without `HAL` library or `STM32CubeIDE` to generate code. We just nee
 | PC2  | DC  |
 | PA6  | MISO|
 | PC1  | CS1 |
+
+## Reference
+[Stm32f407 user manual](https://www.st.com/resource/en/reference_manual/dm00031020-stm32f405-415-stm32f407-417-stm32f427-437-and-stm32f429-439-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
